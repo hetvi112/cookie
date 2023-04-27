@@ -1,2 +1,2 @@
 # cookie
-for project
+C++ Project
